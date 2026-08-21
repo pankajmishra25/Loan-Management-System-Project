@@ -37,7 +37,7 @@ The **Loan Management System** is a web-based application developed to simplify 
 ## Technologies Used
 
 - **Java**
-- **JSP (JavaServer Pages)**
+- **JSP (Java Server Pages)**
 - **Servlets**
 - **JDBC**
 - **HTML5**
@@ -46,7 +46,7 @@ The **Loan Management System** is a web-based application developed to simplify 
 - **MySQL / MariaDB**
 - **Apache Tomcat**
 - **Maven**
-- **IntelliJ IDEA**
+- **Eclipse/IntelliJ IDEA**
 
 ## Project Architecture
 
